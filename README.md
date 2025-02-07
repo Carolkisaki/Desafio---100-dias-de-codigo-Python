@@ -5,5 +5,5 @@
 A maioria dos projetos virão do curso "Fundamentos de Linguagem Python Para Análise de Dados e Data Science" da [Data Science Academy](https://www.datascienceacademy.com.br/course/fundamentos-de-linguagem-python-para-analise-de-dados-e-data-science)
 
 ## 🔰 Iniciante 
-- [Dia 00]: Hello World!
+- [Dia 00:](https://github.com/Carolkisaki/Desafio---100-dias-de-codigo-Python/tree/main/dia00) Hello World!
 - [Dia 01]: Variáveis e Operadores
