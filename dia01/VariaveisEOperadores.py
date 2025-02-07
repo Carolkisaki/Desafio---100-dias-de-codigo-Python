@@ -8,3 +8,8 @@ nome = "Carolina"
 sobrenome = "Kisaki"
 Nome_completo = nome + " " + sobrenome
 print(Nome_completo)
+
+largura = 2
+altura = 4
+area = largura * altura
+print(area)
