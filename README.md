@@ -9,3 +9,4 @@ A maioria dos projetos virão do curso "Fundamentos de Linguagem Python Para An�
 - [Dia 01:](https://github.com/Carolkisaki/Desafio---100-dias-de-codigo-Python/tree/main/dia01) Variáveis e Operadores Aritméticos
 - [Dia 02:](https://github.com/Carolkisaki/Desafio---100-dias-de-codigo-Python/tree/main/dia02) Strings
 - [Dia 03:](https://github.com/Carolkisaki/Desafio---100-dias-de-codigo-Python/tree/main/dia03) Listas
+- [Dia 04:](https://github.com/Carolkisaki/Desafio---100-dias-de-codigo-Python/tree/main/dia04) Dicionários
