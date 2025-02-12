@@ -121,7 +121,7 @@ print(lista_nomes)
 ### Copiando items de uma lista para outra
 ```python
 old_list = [1, 2, 5, 20]
-new_list - []
+new_list = []
 
 for item in old_list:
   new_list.append(item)
