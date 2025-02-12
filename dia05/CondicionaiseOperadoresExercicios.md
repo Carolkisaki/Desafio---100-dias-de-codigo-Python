@@ -65,5 +65,36 @@ if idade >= 80 and Nome == "Paulo":
 ```
 Seja Bem-Vindo Sr. Paulo
 
+## Operadores Lógicos
+```python
+numero = 4
+if nunmero > 2 and numero % 2 == 0:
+  print("As duas condições são verdadeiras")
 
+```
+As duas condições são verdadeiras
 
+```python
+if numero > 5 and numero % 2 == 0:
+  print("As duas condições são verdadeiras")
+else:
+  print("Uma das condições é falsa")
+
+```
+Uma das condições é falsa
+
+```python
+if numero > 5 or numero % 2 == 0
+  print("Uma das condições é verdadeira")
+
+```
+Uma das condições é verdadeira
+
+```python
+if not numero >. 5 and numero % 2 == 0
+  print("As duas condições são verdadeiras")
+else:
+  print("Uma das condições é falsa")
+
+```
+As duas condições são verdadeiras
