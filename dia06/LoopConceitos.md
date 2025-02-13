@@ -1,0 +1,11 @@
+### Conceitos Praticados:
+- Uso do for com range()
+- Iteração sobre listas
+- Filtragem de números pares e ímpares
+- Loops aninhados (for dentro de for)
+- Verificação condicional dentro do loop
+- Percorrendo matrizes
+- Estrutura de repetição while
+- While com else
+- Uso do break, pass e continue
+- Operações matemáticas
