@@ -12,3 +12,4 @@ A maioria dos projetos virão do curso "Fundamentos de Linguagem Python Para An�
 - [Dia 04:](https://github.com/Carolkisaki/Desafio---100-dias-de-codigo-Python/tree/main/dia04) Dicionários
 - [Dia 05:](https://github.com/Carolkisaki/Desafio---100-dias-de-codigo-Python/tree/main/dia05) Condicionais e Operadores Relacionais e Lógicos
 - [Dia 06:](https://github.com/Carolkisaki/Desafio---100-dias-de-codigo-Python/tree/main/dia06) Loop For e While
+- [Dia 07:](https://github.com/Carolkisaki/Desafio---100-dias-de-codigo-Python/tree/main/dia07) Funções
