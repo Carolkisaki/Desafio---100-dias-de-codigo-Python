@@ -14,3 +14,4 @@ A maioria dos projetos virão do curso "Fundamentos de Linguagem Python Para An�
 - [Dia 06:](https://github.com/Carolkisaki/Desafio---100-dias-de-codigo-Python/tree/main/dia06) Loop For e While
 - [Dia 07:](https://github.com/Carolkisaki/Desafio---100-dias-de-codigo-Python/tree/main/dia07) Funções
 - [Dia 08:](https://github.com/Carolkisaki/Desafio---100-dias-de-codigo-Python/tree/main/dia08) Mini Projeto - Calculadora Básica
+- [Dia 09:](https://github.com/Carolkisaki/Desafio---100-dias-de-codigo-Python/tree/main/dia09) List e Dict Comprehension
