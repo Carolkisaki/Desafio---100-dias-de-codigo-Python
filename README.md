@@ -15,3 +15,4 @@ A maioria dos projetos virão do curso "Fundamentos de Linguagem Python Para An�
 - [Dia 07:](https://github.com/Carolkisaki/Desafio---100-dias-de-codigo-Python/tree/main/dia07) Funções
 - [Dia 08:](https://github.com/Carolkisaki/Desafio---100-dias-de-codigo-Python/tree/main/dia08) Mini Projeto - Calculadora Básica
 - [Dia 09:](https://github.com/Carolkisaki/Desafio---100-dias-de-codigo-Python/tree/main/dia09) List e Dict Comprehension
+- [Dia 10:](https://github.com/Carolkisaki/Desafio---100-dias-de-codigo-Python/tree/main/dia10) Manipulação de Dados .txt e .csv
