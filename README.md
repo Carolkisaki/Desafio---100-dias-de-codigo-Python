@@ -18,3 +18,4 @@ A maioria dos projetos virão do curso "Fundamentos de Linguagem Python Para An�
 - [Dia 10:](https://github.com/Carolkisaki/Desafio---100-dias-de-codigo-Python/tree/main/dia10) Manipulação de Dados .txt e .csv
 - [Dia 11:](https://github.com/Carolkisaki/Desafio---100-dias-de-codigo-Python/tree/main/dia11) Funções Map e Reduce
 - [Dia 12:](https://github.com/Carolkisaki/Desafio---100-dias-de-codigo-Python/tree/main/dia12) Funções Filter, Zip e Enumerate
+- [Dia 13:](https://github.com/Carolkisaki/Desafio---100-dias-de-codigo-Python/tree/main/dia13) Tratamento de Erros - Try, Except e Finally
