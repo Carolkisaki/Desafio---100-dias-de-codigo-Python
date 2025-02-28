@@ -21,3 +21,5 @@ A maioria dos projetos virão do curso "Fundamentos de Linguagem Python Para An�
 - [Dia 13:](https://github.com/Carolkisaki/Desafio---100-dias-de-codigo-Python/tree/main/dia13) Tratamento de Erros - Try, Except e Finally
 - [Dia 14:](https://github.com/Carolkisaki/Desafio---100-dias-de-codigo-Python/tree/main/dia14) Expressões Regulares
 - [Dia 15:](https://github.com/Carolkisaki/Desafio---100-dias-de-codigo-Python/tree/main/dia15) Mini Jogo - Forca
+## 📚 Intermediário
+- [Dia 16:](https://github.com/Carolkisaki/Desafio---100-dias-de-codigo-Python/tree/main/dia16) Programação Orientada a Objetos (POO) - Classes
