@@ -20,3 +20,4 @@ A maioria dos projetos virão do curso "Fundamentos de Linguagem Python Para An�
 - [Dia 12:](https://github.com/Carolkisaki/Desafio---100-dias-de-codigo-Python/tree/main/dia12) Funções Filter, Zip e Enumerate
 - [Dia 13:](https://github.com/Carolkisaki/Desafio---100-dias-de-codigo-Python/tree/main/dia13) Tratamento de Erros - Try, Except e Finally
 - [Dia 14:](https://github.com/Carolkisaki/Desafio---100-dias-de-codigo-Python/tree/main/dia14) Expressões Regulares
+- [Dia 15:](https://github.com/Carolkisaki/Desafio---100-dias-de-codigo-Python/tree/main/dia15) Mini Jogo - Forca
