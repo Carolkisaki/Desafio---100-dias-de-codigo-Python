@@ -24,3 +24,4 @@ A maioria dos projetos virão do curso "Fundamentos de Linguagem Python Para An�
 ## 📚 Intermediário
 - [Dia 16:](https://github.com/Carolkisaki/Desafio---100-dias-de-codigo-Python/tree/main/dia16) Programação Orientada a Objetos (POO) - Classes
 - [Dia 17:](https://github.com/Carolkisaki/Desafio---100-dias-de-codigo-Python/tree/main/dia17) Manipulação de Atributos de um Objeto
+- [Dia 18:](https://github.com/Carolkisaki/Desafio---100-dias-de-codigo-Python/tree/main/dia18) Métodos de Classe
