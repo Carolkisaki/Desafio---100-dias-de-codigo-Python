@@ -1,0 +1,20 @@
+### Conceitos Praticados:
+- Criação de Arrays
+  - np.array(lista)
+  - no.arange(stat, stop, step)
+  - np.zeros(tamanho)
+  - np.diag(lista)
+- Indexação e Fatiamento
+  - array[posição]
+  - array[inicio:fim]
+  - array[lista_indices]
+  - array[condição]
+- Operações Básicas
+  - array.cumsum()
+  - array.cumprod()
+  - array.dtype
+  - np.shape(array)
+- Criação de Sequências Numéricas
+  - np.linspace()
+  - np.logspace()
+- Manipulação e Alteração de Arrays
