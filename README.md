@@ -28,3 +28,4 @@ A maioria dos projetos virão do curso "Fundamentos de Linguagem Python Para An�
 - [Dia 19:](https://github.com/Carolkisaki/Desafio---100-dias-de-codigo-Python/tree/main/dia19) Herança e Polimorfismo de Classes
 - [Dia 20:](https://github.com/Carolkisaki/Desafio---100-dias-de-codigo-Python/tree/main/dia20) Jogo da Forca 2.0 - Utilizando Programação Orientada a Objetos
 - [Dia 21:](https://github.com/Carolkisaki/Desafio---100-dias-de-codigo-Python/tree/main/dia21) NumPy
+- [Dia 22:](https://github.com/Carolkisaki/Desafio---100-dias-de-codigo-Python/tree/main/dia22) Exercícios Plataforma BeeCrowd
