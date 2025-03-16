@@ -31,3 +31,4 @@ A maioria dos projetos virão do curso "Fundamentos de Linguagem Python Para An�
 - [Dia 22:](https://github.com/Carolkisaki/Desafio---100-dias-de-codigo-Python/tree/main/dia22) Exercícios Plataforma BeeCrowd
 - [Dia 23:](https://github.com/Carolkisaki/Desafio---100-dias-de-codigo-Python/tree/main/dia23) Matriz com NumPy
 - [Dia 24:](https://github.com/Carolkisaki/Desafio---100-dias-de-codigo-Python/tree/main/dia24) Estatística com Numpy (manipulação de arrays, operações matemáticas, multiplicação de matrizes)
+- [Dia 25:](https://github.com/Carolkisaki/Desafio---100-dias-de-codigo-Python/tree/main/dia25) Slicing de Arrays NumPy
