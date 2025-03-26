@@ -1,0 +1,13 @@
+### Conceitos Praticados:
+- Criação de DataFrame a partir de um dicionário
+- Reorganização de colunas e índices
+  - Criação de novos índices nomeados
+  - Adição de coluna extra
+- Acessos e Informações sobre o DataFrame
+  - Acessar uma coluna
+  - Acessar múltiplas colunas
+  - Filtrar linha específica
+- Resumo Estatístico e Valores Ausentes
+- Preenchimento de Valores com NumPy
+- Slicing e Filtragem
+- Preenchimento de Dados Ausentes com fillna()
