@@ -34,3 +34,4 @@ A maioria dos projetos virão do curso "Fundamentos de Linguagem Python Para An�
 - [Dia 25:](https://github.com/Carolkisaki/Desafio---100-dias-de-codigo-Python/tree/main/dia25) Slicing de Arrays NumPy
 - [Dia 26:](https://github.com/Carolkisaki/Desafio---100-dias-de-codigo-Python/tree/main/dia26) Introdução ao Pandas
 - [Dia 27:](https://github.com/Carolkisaki/Desafio---100-dias-de-codigo-Python/tree/main/dia27) Query de Dados
+- [Dia 28:](https://github.com/Carolkisaki/Desafio---100-dias-de-codigo-Python/tree/main/dia28) Manipulando Strings com Pandas
