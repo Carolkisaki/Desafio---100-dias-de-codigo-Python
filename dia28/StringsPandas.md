@@ -1,0 +1,14 @@
+### Conceitos Praticados:
+- Agrupamento de Dados com groupby()
+- Agregação Múltipla com agg()
+- Filtragem de DataFrame com Base em Strings
+  - Filtrar por início da string (startswith())
+  - Filtrar por fim da string (endswith())
+- Manipulação de Strings
+  - Dividir Strings (split())
+    - Selecionar um valor específico após o split()
+    - Criar uma nova coluna
+- Limpeza de Strings
+  - Remover caracteres à esquerda (lstrip())
+- Substituição de Caracteres (replace())
+- Combinação de Strings (cat())
