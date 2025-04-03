@@ -1,0 +1,11 @@
+### Conceitos Praticados:
+- Criação de Gráficos:
+  - de Dispersão (plt.scatter())
+  - de Área Empilhada (plt.stackplot())
+  - de Pizza (plt.pie())
+- Customização dos Gráficos
+  - Legendas (plt.legend())
+  - Rótulos de Eixos (plt.xlabel(), plt.ylabel())
+  - Título (plt.title())
+  - Cores e Marcadores (color=, marker=)
+- Uso de Pylab
