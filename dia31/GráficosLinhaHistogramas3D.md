@@ -1,0 +1,12 @@
+### Conceitos Praticados:
+- Gráficos de Linha em Diferentes Formatos
+  - Gráficos em paralelo (plt.subplots())
+  - Diferentes escalas (set_yscale("log"))
+  - Grade em gráficos (grid())
+- Diferentes estilos de gráficos
+  - Gráfico de degraus (plt.step())
+  - Gráfico de barras (plt.bar())
+  - Área sombreada (fill_between())
+  - Histogramas (plt.hist())
+- Visualização Tridimensional
+  - gráficos 3D (Axes3D)
