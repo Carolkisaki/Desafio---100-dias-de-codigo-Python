@@ -37,3 +37,4 @@ A maioria dos projetos virão do curso "Fundamentos de Linguagem Python Para An�
 - [Dia 28:](https://github.com/Carolkisaki/Desafio---100-dias-de-codigo-Python/tree/main/dia28) Manipulando Strings com Pandas
 - [Dia 29:](https://github.com/Carolkisaki/Desafio---100-dias-de-codigo-Python/tree/main/dia29) Matplotlib - Gráficos de Linhas e Barras
 - [Dia 30:](https://github.com/Carolkisaki/Desafio---100-dias-de-codigo-Python/tree/main/dia30) Matplotlib Parte 2 - Gráficos de Dispersão, Área Empilhada, Pizza, Linha com Pylab
+- [Dia 31:](https://github.com/Carolkisaki/Desafio---100-dias-de-codigo-Python/tree/main/dia31) Matplotlib Parte 3 - Gráficos de Linhas com diferentes escalas, Histogramas, Gráficos 3D
