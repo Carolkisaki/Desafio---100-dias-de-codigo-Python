@@ -41,3 +41,4 @@ A maioria dos projetos virão do curso "Fundamentos de Linguagem Python Para An�
 - [Dia 32:](https://github.com/Carolkisaki/Desafio---100-dias-de-codigo-Python/tree/main/dia32) Seaborn
 - [Dia 33:](https://github.com/Carolkisaki/Desafio---100-dias-de-codigo-Python/tree/main/dia33) SQL
 - [Dia 34:](https://github.com/Carolkisaki/Desafio---100-dias-de-codigo-Python/tree/main/dia34) SQL x Pandas
+- [Dia 35:](https://github.com/Carolkisaki/Desafio---100-dias-de-codigo-Python/tree/main/dia35) Projeto 2 - Análise Exploratória Setor Varejo
