@@ -40,3 +40,4 @@ A maioria dos projetos virão do curso "Fundamentos de Linguagem Python Para An�
 - [Dia 31:](https://github.com/Carolkisaki/Desafio---100-dias-de-codigo-Python/tree/main/dia31) Matplotlib Parte 3 - Gráficos de Linhas com diferentes escalas, Histogramas, Gráficos 3D
 - [Dia 32:](https://github.com/Carolkisaki/Desafio---100-dias-de-codigo-Python/tree/main/dia32) Seaborn
 - [Dia 33:](https://github.com/Carolkisaki/Desafio---100-dias-de-codigo-Python/tree/main/dia33) SQL
+- [Dia 34:](https://github.com/Carolkisaki/Desafio---100-dias-de-codigo-Python/tree/main/dia34) SQL x Pandas
