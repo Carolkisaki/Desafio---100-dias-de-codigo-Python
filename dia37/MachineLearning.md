@@ -1,0 +1,16 @@
+### Conceitos Praticados:
+- Importação da classe LinearRegression da biblioteca scikit-learn
+  - Modelo de Regressão Linear para prever valores contínuos com base em uma ou mais variáveis
+- Importação da função train_test_split
+  - Para dividir o dataset em duas partes: treinamento e teste
+- Preparação dos dados
+  - Utilizando o comando x = x.reshape(-1, 1)
+    - Para garantir que as variáveis estejam no formato de matriz
+- Criação e treino do modelo
+  - .fit() treina o modelo com os dados de treino
+- Visualização do modelo
+  - plt.scatter
+  - plt.plot
+- Avaliação do modelo
+  - R³ coeficiente de determinação
+- Deploy do modelo (previsão)
