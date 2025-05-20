@@ -46,3 +46,4 @@ A maioria dos projetos virão do curso "Fundamentos de Linguagem Python Para An�
 - [Dia 36:](https://github.com/Carolkisaki/Desafio---100-dias-de-codigo-Python/tree/main/dia36) Statsmodels
 - [Dia 37:](https://github.com/Carolkisaki/Desafio---100-dias-de-codigo-Python/tree/main/dia37) Machine Learning & Scikit-learn
 - [Dia 38;](https://github.com/Carolkisaki/Desafio---100-dias-de-codigo-Python/tree/main/dia38) Série Temporal
+- [Dia 39:](https://github.com/Carolkisaki/Desafio---100-dias-de-codigo-Python/tree/main/dia39) Suavização Exponencial
