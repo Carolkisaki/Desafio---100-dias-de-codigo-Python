@@ -1,6 +1,6 @@
 # Desafio 100 dias de código Python
 
-<img src="https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/refs/heads/master/Python/kagome_with_python.jpg" width = "520" height = "350"/>
+<img src="https://i.pinimg.com/736x/e2/c8/21/e2c82120a3111d153a81596f4b3e71f2.jpg" width = "520" height = "350"/>
 
 A maioria dos projetos virão do curso "Fundamentos de Linguagem Python Para Análise de Dados e Data Science" da [Data Science Academy](https://www.datascienceacademy.com.br/course/fundamentos-de-linguagem-python-para-analise-de-dados-e-data-science)
 
